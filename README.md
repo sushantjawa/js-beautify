@@ -1,7 +1,7 @@
 # js-beautify
-a script to remove comments (signle line,multi lines) ,extra spaces and to beautify the code.
+a script to remove comments (single line,multi lines) ,extra spaces and to beautify the code.
 
-Input command
+<U>Input Command</U>
 node app.js path -p "PATH OF THE FILE"
 
 Output
