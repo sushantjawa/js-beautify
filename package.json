@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "js-beautify": "^1.7.5",
+    "lodash": "^4.17.5",
+    "yargs": "^11.0.0"
+  }
+}
